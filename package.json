@@ -1,0 +1,11 @@
+{
+  "name": "servelocalfile",
+  "version": "1.0.0",
+  "description": "Serves local files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jothebanner",
+  "license": "ISC"
+}
